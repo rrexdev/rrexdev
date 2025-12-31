@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">hey 👋</h1>
 
-<!--
-**rrexdev/rrexdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">full-stack · blockchain · systems</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,bun&theme=dark" height="45" alt="core stack" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,vercel&theme=dark" height="45" alt="infra stack" />
+</div>
+
+###
+
+<p align="center">
+  <code>tanstack</code> · <code>solana</code> · <code>grpc</code> · <code>websockets</code>
+</p>
+
+###
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=dark&hide_border=true" height="170" alt="streak graph" />
+</div>
