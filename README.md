@@ -1,5 +1,3 @@
-<h1 align="center">hey 👋</h1>
-
 <p align="center">full-stack · blockchain · systems</p>
 
 ###
@@ -21,5 +19,5 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=dark&hide_border=true" height="170" alt="streak graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rrexdev&theme=dark&hide_border=true" height="170" alt="streak graph" />
 </div>
