@@ -17,7 +17,3 @@
 </p>
 
 ###
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rrexdev&theme=dark&hide_border=true" height="170" alt="streak graph" />
-</div>
